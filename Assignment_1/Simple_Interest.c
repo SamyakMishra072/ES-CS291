@@ -1,5 +1,5 @@
 //to calculate simple and compound interest using user-input data
-
+#include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
 void Interest(float, float, float);

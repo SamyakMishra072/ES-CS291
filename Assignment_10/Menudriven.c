@@ -1,5 +1,7 @@
 // to write a menu-driven program and perform various tasks
 #include <stdio.h>
+#include <stdlib.h>
+#include <stdbool.h>
 int gcd(int, int);
 int fact(int);
 int fibo(int);

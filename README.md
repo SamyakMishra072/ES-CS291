@@ -3,7 +3,7 @@
 ## How to Install
 
 1. Create a ```C``` virtual environment. 
-2. Clone the repo ```git clone https://github.com/Samyak072/ES-CS291.git``` or download the repository.
+2. Clone the repo ```git clone https://github.com/SamyakMishra072/ES-CS291.git``` or download the repository.
 3. Go to the cloned/downloaded directory ``` cd Program (n) ```  where n= 1 to 15, or ``` cd Patterns ```. 
 4. Run ``` pip3 install gcc ```.
 5. And now you can run the example scripts or create your own scripts.  
